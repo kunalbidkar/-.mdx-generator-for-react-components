@@ -1,1 +1,6 @@
-# -.mdx-generator-for-react-components
+## Usage
+
+```
+yarn install
+yarn bootstrap
+```
